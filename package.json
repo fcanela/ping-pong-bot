@@ -1,6 +1,6 @@
 {
   "name": "ping-pong-bot",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "This bot is designed to interact with a Goerli smart contract that emits ping events. For each ping event it must reply with a pong. It shouldn’t answer more than one time or omit any ping.",
   "scripts": {
     "start": "ts-node src/index.ts",
